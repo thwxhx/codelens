@@ -1,6 +1,6 @@
 # codelens
 
-[![CI](https://github.com/YOUR_USERNAME/codelens/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/codelens/actions/workflows/ci.yml)
+[![CI](https://github.com/thwxhx/codelens/actions/workflows/ci.yml/badge.svg)](https://github.com/thwxhx/codelens/actions/workflows/ci.yml)
 ![python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
@@ -90,7 +90,7 @@ Pre-commit:
 
 ```yaml
 repos:
-  - repo: https://github.com/YOUR_USERNAME/codelens
+  - repo: https://github.com/thwxhx/codelens
     rev: v0.1.0
     hooks:
       - id: codelens
