@@ -1,0 +1,6 @@
+- id: codelens
+  name: codelens
+  description: Static analysis + secret scanning on staged files.
+  entry: codelens review --fail-on high
+  language: python
+  types: [text]

@@ -1,0 +1,3 @@
+[codelens]
+# codelens reviews itself in CI (see .github/workflows/ci.yml)
+exclude = ["tests/*"]
